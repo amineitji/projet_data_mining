@@ -1,0 +1,15 @@
+Dimension,Valeur
+Observations (joueurs),1 826
+Variables totales,23
+Variables statistiques,19
+Catégories de poste,7
+Postes spécifiques,13
+Jeunes talents (< 23 ans),366 (20.0%)
+Valeurs manquantes,0 (après nettoyage)
+Doublons supprimés,2
+Variables redondantes identifiées,"3 (Buts, Passes décisives, npxG+xAG)"
+Variables sélectionnées final,16
+VIF max (dataset complet),936.5
+VIF max (dataset sélectionné),9.8
+Corrélations fortes (|r| > 0.7),20 paires
+CV moyen des métriques,48.2%
