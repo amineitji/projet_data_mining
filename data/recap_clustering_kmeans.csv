@@ -1,8 +1,8 @@
-Catégorie,N_joueurs,K_optimal,Silhouette,Davies-Bouldin,Distribution,Cluster_élite,Jeunes_élite
-Ailiers,319,2,0.17372938138740693,1.9013967054739935,0(157)/1(162),1,45
-Attaquants,246,2,0.2709717745529607,1.6905060051600675,0(64)/1(182),1,32
-Défenseurs Centraux,381,2,0.7017081355466325,0.6535724458173335,0(374)/1(7),0,65
-Latéraux,316,2,0.23307559435259984,1.8757798753850368,0(85)/1(231),0,19
-Milieux Centraux,270,2,0.17998830173904976,1.9296545632436053,0(165)/1(105),1,24
-Milieux Défensifs,168,2,0.25598707347203287,1.7922461318086347,0(41)/1(127),1,21
-Milieux Offensifs,126,2,0.14772460099825827,2.1486797262915918,0(75)/1(51),1,17
+Catégorie,Joueurs,K_optimal,Silhouette,Davies-Bouldin,Distribution (nb joueurs),Cluster_élite,Jeunes_élite (nb),% Jeunes_élite
+Ailiers,319,2,0.174,1.901,C0(157) / C1(162),1,45,14.1
+Attaquants,246,2,0.271,1.691,C0(64) / C1(182),1,32,13.0
+Défenseurs Centraux,381,2,0.702,0.654,C0(374) / C1(7),0,65,17.1
+Latéraux,316,2,0.233,1.876,C0(85) / C1(231),0,19,6.0
+Milieux Centraux,270,2,0.18,1.93,C0(165) / C1(105),1,24,8.9
+Milieux Défensifs,168,2,0.256,1.792,C0(41) / C1(127),1,21,12.5
+Milieux Offensifs,126,2,0.148,2.149,C0(75) / C1(51),1,17,13.5
